@@ -1,0 +1,8 @@
+[1212/102723:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[1212/102723:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[1212/102723:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {6BBB282D-2038-4780-B361-6100730EB790}\BrowserCache to C:\ProgramData\Altium\Altium Designer {6BBB282D-2038-4780-B361-6100730EB790}\old_BrowserCache_000
+[1212/102723:ERROR:cache_creator.cc(129)] Unable to create cache
+[1212/102731:INFO:CONSOLE(43)] "Uncaught TypeError: Cannot read property 'isEmptyObject' of undefined", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/marketo.js?p0hdq8 (43)
+[1212/102731:INFO:CONSOLE(19)] "[object Object]", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/modalWindow.js (19)
+[1212/102744:INFO:CONSOLE(25)] "Facebook Pixel Warning: Multiple pixels with conflicting versions were detected on this page", source: http://connect.facebook.net/en_US/fbevents.js (25)
+[1212/103004:INFO:CONSOLE(43)] "Uncaught TypeError: Cannot read property 'isEmptyObject' of undefined", source: http://techdocs.altium.com/sites/all/themes/custom/altiumwiki/js/marketo.js?p0hdq8 (43)
